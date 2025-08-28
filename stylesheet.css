@@ -67,7 +67,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: clamp(1rem, 5dvw, 2rem) clamp(1rem, 8dvw, 10%);
+  padding: clamp(1rem, 5svw, 2rem) clamp(1rem, 8svw, 10%);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -124,7 +124,7 @@ body {
 }
 
 .home-content h1 {
-  font-size: clamp(1.8rem, 5dvw, 3.5rem);
+  font-size: clamp(1.8rem, 5svw, 3.5rem);
   font-weight: 700;
   margin: -3px 0;
   color: #fff;
@@ -134,7 +134,7 @@ body {
 }
 
 .home-content h3 {
-  font-size: clamp(1.2rem, 3.5dvw, 2rem);
+  font-size: clamp(1.2rem, 3.5svw, 2rem);
   font-weight: 200;
   opacity: 0;
   color: var(--primary);
@@ -164,7 +164,7 @@ body {
 }
 
 .profile-image {
-  width: clamp(150px, 25dvw, 300px);
+  width: clamp(150px, 25svw, 300px);
   height: auto;
   border-radius: 50%;
   object-fit: cover;
@@ -267,7 +267,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   gap: 4rem;
-  padding: clamp(2rem, 6dvw, 4rem) clamp(1rem, 8dvw, 8%);
+  padding: clamp(2rem, 6svw, 4rem) clamp(1rem, 8svw, 8%);
   overflow: hidden;
 }
 
@@ -297,14 +297,14 @@ body {
 }
 
 .about-text h2 {
-  font-size: clamp(1.8rem, 4dvw, 2.5rem);
+  font-size: clamp(1.8rem, 4svw, 2.5rem);
   margin-bottom: 1rem;
 }
 
 .about-text h2 span { color: #0ef; }
 
 .about-text h4 {
-  font-size: clamp(1.2rem, 3dvw, 1.5rem);
+  font-size: clamp(1.2rem, 3svw, 1.5rem);
   font-weight: 500;
   color: #a0a0ff;
   margin-bottom: 1rem;
@@ -342,13 +342,13 @@ body {
 .skills {
   position: relative;
   width: 100%;
-  padding: clamp(2rem, 6dvw, 5rem) clamp(1rem, 8dvw, 10%);
+  padding: clamp(2rem, 6svw, 5rem) clamp(1rem, 8svw, 10%);
   text-align: center;
   overflow: hidden;
 }
 
 .skills h2 {
-  font-size: clamp(1.8rem, 4dvw, 2.5rem);
+  font-size: clamp(1.8rem, 4svw, 2.5rem);
   font-weight: 500;
   margin-bottom: 2rem;
   color: white;
@@ -441,13 +441,13 @@ body {
 
 /* ========== Resume Section ========== */
 .resume {
-  padding: clamp(2rem, 6dvw, 5rem) clamp(1rem, 8dvw, 10%);
+  padding: clamp(2rem, 6svw, 5rem) clamp(1rem, 8svw, 10%);
   background: url("Assets/Background pic/Background_image2.png") no-repeat center center/cover;
   text-align: left;
 }
 
 .resume .section-title {
-  font-size: clamp(1.8rem, 4dvw, 2.5rem);
+  font-size: clamp(1.8rem, 4svw, 2.5rem);
   font-weight: 500;
   margin-bottom: 3rem;
   color: white;
@@ -485,7 +485,7 @@ body {
   position: relative;
   width: 100%;
   color: #ededed;
-  padding: clamp(2rem, 6dvw, 5rem) clamp(1rem, 8dvw, 10%);
+  padding: clamp(2rem, 6svw, 5rem) clamp(1rem, 8svw, 10%);
   background: url("Assets/Background pic/Background_image_Project.png") no-repeat center center/cover;
 }
 
@@ -536,7 +536,7 @@ body {
 }
 
 #contact {
-  padding: clamp(2rem, 6dvw, 5rem) clamp(1rem, 8dvw, 10%);
+  padding: clamp(2rem, 6svw, 5rem) clamp(1rem, 8svw, 10%);
 }
 
 .contact-item {
