@@ -23,34 +23,6 @@ body {
   min-height: 100vh;
 }
 
-/* Tablets */
-@media (max-width: 1024px) {
-    .home-content {
-        text-align: center;
-    }
-    .about-placeholder {
-        position: relative;
-        top: auto;
-        left: auto;
-        margin: 0 auto 2rem;
-    }
-}
-
-/* Mobile Phones */
-@media (max-width: 768px) {
-    .navbar a {
-        margin-left: 15px;
-        font-size: 18px;
-    }
-    .skills-grid {
-        grid-template-columns: 1fr;
-    }
-    .contact-item {
-        padding: 1.5rem;
-    }
-}
-
-
 /* ========== Header ========== */
 .header {
   position: fixed;
@@ -92,8 +64,6 @@ body {
 .navbar a:hover {
   color: var(--primary);
 }
-
-
 
 /* ========== Home Section ========== */
 .home {
@@ -156,9 +126,8 @@ body {
 }
 
 .profile-image {
-  width: 20vw; /* scales with viewport */
-  max-width: 300px; /* doesn't grow too large */
-  height: auto;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid var(--primary);
