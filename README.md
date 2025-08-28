@@ -1,4 +1,4 @@
-# Dipmita Rudra Portfolio
+# Dipmita's Portfolio
 
 Hi! I am **Dipmita Rudra**, an Identity & Access Management (IAM) professional with 5+ years of experience in enterprise security and access management.  
 
