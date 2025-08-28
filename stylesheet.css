@@ -128,8 +128,9 @@ body {
 }
 
 .profile-image {
-  width: 350px; /* scales with viewport */
-  height: 350px;
+  width: 20dvw; /* scales with viewport */
+  max-width: 300px; /* doesn't grow too large */
+  height: auto;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid var(--primary);
