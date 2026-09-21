@@ -1,6 +1,6 @@
 # Dipmita's Portfolio
 
-Hi! I am **Dipmita Rudra**, an Identity & Access Management (IAM) professional with 5+ years of experience in enterprise security and access management.  
+Hi! I am **Dipmita Rudra**, a DevOps professional with 4+ years of experience inenterprise application support.  
 
 ---
 
@@ -23,4 +23,4 @@ Everything was hand-coded by yours truly, without using any frontend frameworks 
 
 ---
 
-**© 2025 Dipmita Rudra | IAM Professional & Security Engineer**
+**© 2025 Dipmita Rudra | DevOps Engineer**
